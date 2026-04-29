@@ -1,0 +1,13 @@
+<svg width="960" height="300" viewBox="0 0 960 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="300" rx="36" fill="#0f172a"/>
+  <rect x="42" y="42" width="216" height="216" rx="28" fill="#f8fafc"/>
+  <path d="M93 92h92c22 0 40 18 40 40v76H93V92z" fill="#e2e8f0" stroke="#334155" stroke-width="8"/>
+  <path d="M116 126h80M116 154h80M116 182h54" stroke="#334155" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="260" cy="94" r="20" fill="#38bdf8"/>
+  <circle cx="302" cy="150" r="20" fill="#a78bfa"/>
+  <circle cx="260" cy="206" r="20" fill="#34d399"/>
+  <path d="M278 102l12 18M290 180l-12 18" stroke="#f8fafc" stroke-width="8" stroke-linecap="round"/>
+  <text x="350" y="127" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800">Paper2Repro Agent</text>
+  <text x="354" y="178" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="28">Turn research papers into reproducible experiment plans</text>
+  <text x="354" y="222" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="22">PDF → agents → checklist → starter code</text>
+</svg>

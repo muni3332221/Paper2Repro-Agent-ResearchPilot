@@ -1,0 +1,16 @@
+<svg width="1100" height="560" viewBox="0 0 1100 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="560" rx="24" fill="#111827"/>
+  <rect x="0" y="0" width="1100" height="54" rx="24" fill="#1f2937"/>
+  <circle cx="34" cy="27" r="8" fill="#f87171"/>
+  <circle cx="62" cy="27" r="8" fill="#fbbf24"/>
+  <circle cx="90" cy="27" r="8" fill="#34d399"/>
+  <text x="32" y="100" fill="#e5e7eb" font-family="SFMono-Regular, Consolas, monospace" font-size="24">$ paper2repro run examples/paper.pdf --no-llm -o outputs/demo</text>
+  <text x="32" y="152" fill="#86efac" font-family="SFMono-Regular, Consolas, monospace" font-size="24">Done</text>
+  <text x="32" y="204" fill="#e5e7eb" font-family="SFMono-Regular, Consolas, monospace" font-size="24">Report: outputs/demo/repro_plan.md</text>
+  <text x="32" y="256" fill="#e5e7eb" font-family="SFMono-Regular, Consolas, monospace" font-size="24">JSON: outputs/demo/repro_plan.json</text>
+  <text x="32" y="308" fill="#e5e7eb" font-family="SFMono-Regular, Consolas, monospace" font-size="24">Starter project: outputs/demo/starter_project</text>
+  <text x="32" y="382" fill="#93c5fd" font-family="SFMono-Regular, Consolas, monospace" font-size="24">outputs/demo/starter_project/</text>
+  <text x="64" y="432" fill="#d1d5db" font-family="SFMono-Regular, Consolas, monospace" font-size="22">├── README.md</text>
+  <text x="64" y="472" fill="#d1d5db" font-family="SFMono-Regular, Consolas, monospace" font-size="22">├── requirements.txt</text>
+  <text x="64" y="512" fill="#d1d5db" font-family="SFMono-Regular, Consolas, monospace" font-size="22">└── src/train.py, evaluate.py, model.py, data.py</text>
+</svg>
